@@ -7,6 +7,7 @@ A.txt: 67
 ...
 Z.txt: 98
 '''
+
 from random import randint
 
 summary_file = open('summary.txt', 'w')
