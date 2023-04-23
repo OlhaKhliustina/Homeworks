@@ -4,7 +4,6 @@ import csv
 '''3. Write a program that will simulate user score in a game.
 Create a list with 5 player's names. After that simulate 100 games for each player.
 As a result of the game create a list with player's name and his score (0-1000 range).'''
-
 players = ["Player_1", "Player_2", "Player_3", "Player_4", "Player_5"]
 # Записуємо рандомні результати для кожного гравця в 100 іграх
 game_results = []

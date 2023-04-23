@@ -4,7 +4,6 @@ Practice
     b) To each file append a random number between 1 and 100.
     c) Create a summary file (summary.txt) that contains name of the file and number in that file:
 A.txt: 67
-B.txt: 12
 ...
 Z.txt: 98
 '''
