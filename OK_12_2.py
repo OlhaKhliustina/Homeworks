@@ -2,7 +2,6 @@
 a) Create file with some content. As example you can take this one
 b) Create second file and copy content of the first file to the second file in upper case.
 '''
-
 text_1 = """Тому що ніколи тебе не вирвеш,
 ніколи не забереш,
 тому що вся твоя свобода
