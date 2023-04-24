@@ -2,6 +2,7 @@
 '''3. Write a program that will simulate user score in a game.
 Create a list with 5 player's names. After that simulate 100 games for each player.
 As a result of the game create a list with player's name and his score (0-1000 range).'''
+
 import random
 import csv
 
