@@ -10,6 +10,7 @@ PLN
 - Робити перевірки на status code
 - Написати це функцію
 - Залити на git(flake8 use, requirments, )
+
 '''
 
 import requests

@@ -1,4 +1,5 @@
 # 3. Вивеcти всіх космонавтів(кількість і імена) http://api.open-notify.org/astros.json
+
 import requests
 
 astronauts = requests.get('http://api.open-notify.org/astros.json')
