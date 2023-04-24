@@ -1,5 +1,5 @@
-#Create a program that will ask user to search a word. 
-#Search this word in Giphy (use their API). Return links to these GIFs as a result
+# Create a program that will ask user to search a word.
+# Search this word in Giphy (use their API). Return links to these GIFs as a result
 import requests
 
 url = 'https://api.giphy.com/v1/gifs/search'
@@ -20,4 +20,4 @@ if response.ok:
     for url in gif_urls:
         print(url)
 else:
-    print (f'You have {response.status_code} mistake')
+    print(f'You have {response.status_code} mistake')
